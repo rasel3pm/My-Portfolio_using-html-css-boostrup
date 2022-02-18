@@ -2,4 +2,10 @@
     .banner-contant-text {
         text-align: center;
     }
+    .banner-contant-text {
+        padding-top: 0px;
+    }
+    .about-me-text {
+        padding-top: 10px;
+    }
 }

@@ -29,7 +29,11 @@ body {
 }
 
 .banner {
-    border-bottom: 10px solid #26ffff;
+    border-bottom: 5px solid #26ffff;
+}
+
+.banner-contant-text {
+    padding-top: 80px;
 }
 
 .banner-image img {
@@ -44,3 +48,40 @@ body {
 
 
 /* header style end */
+
+
+/* about me style start */
+
+.about-me-text {
+    padding-top: 80px;
+}
+
+.about-image img {
+    width: 100%;
+}
+
+
+/* about me style end */
+
+
+/* skill section start */
+
+.html,
+.css,
+.bootstrap,
+.JavaScript {
+    padding: 15px;
+    margin: 10px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+.html,
+.css,
+.bootstrap,
+.JavaScript i {
+    font-size: 30px;
+}
+
+
+/* skill section end */
