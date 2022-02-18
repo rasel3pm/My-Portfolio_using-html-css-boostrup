@@ -66,14 +66,20 @@ body {
 
 /* skill section start */
 
-.html,
-.css,
-.bootstrap,
-.JavaScript {
-    padding: 15px;
-    margin: 10px;
-    background-color: aqua;
+.s-card {
+    padding: 7px;
+    background-color: #2f3030;
     border-radius: 10px;
+    transition: 05s;
+    margin-bottom: 12px;
+}
+
+.s-card:hover {
+    background-color: #26ffff;
+}
+
+.s-card h6 {
+    font-weight: 400;
 }
 
 .html,
